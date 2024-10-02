@@ -3,9 +3,9 @@
 
 This project provides a straightforward approach to predicting YouTube video view counts using Excel. By analyzing historical data, users can forecast future views effectively.
 
-Requirements
-Microsoft Excel (2016 or later)
-Basic knowledge of Excel functions
+Requirements:
+A. Microsoft Excel (2016 or later)
+B. Basic knowledge of Excel functions
 
 Steps:
 1. Data Collection or creation
