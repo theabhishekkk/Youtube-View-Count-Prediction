@@ -1,6 +1,6 @@
 # Youtube-View-Count-Prediction
 
-Overview
+
 This project provides a straightforward approach to predicting YouTube video view counts using Excel. By analyzing historical data, users can forecast future views effectively.
 
 Requirements
